@@ -1,0 +1,6 @@
+build/
+netscope
+*.pcap
+*.pcapng
+*.zip
+results/
